@@ -5,9 +5,11 @@
 + Стараюсь писать чистый и понятный код
 + Постоянно учусь и осваиваю новые технологии
 + Хочу создавать качественный продукт
-<div align="center">
+
   
 ## Мой стек:
+<div align="center">
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,10 +20,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ##
 [![codewars](https://www.codewars.com/users/wakeuphaku/badges/small)](https://www.codewars.com/users/wakeuphaku)
-</div>
+
 ## Мои контакты:
 + Telegram: [@wakeuphaku](https://t.me/wakeuphaku)
 + Почта: not3hunnit@gmail.com

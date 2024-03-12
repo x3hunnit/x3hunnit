@@ -1,3 +1,4 @@
+<div align="center">
 # Привет! Меня зовут Дмитрий, я front-end разработчик
 
 ## Обо мне:
@@ -24,3 +25,4 @@
 ## Мои контакты:
 + Telegram: [@wakeuphaku](https://t.me/wakeuphaku)
 + Почта: not3hunnit@gmail.com
+</div>

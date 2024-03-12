@@ -1,4 +1,4 @@
-# Привет! Меня зовут Дмитрий
+# Привет! Меня зовут Дмитрий, я начинающий front-end разработчик
 
 ## Обо мне:
 + Окончил курс [Веб-разработчик](https://practicum.yandex.ru/web/) в Яндекс.Практикум
@@ -19,5 +19,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Мои контакты:
-+ telegram: [@wakeuphaku](https://t.me/wakeuphaku)
-+ почта: not3hunnit@gmail.com
++ Telegram: [@wakeuphaku](https://t.me/wakeuphaku)
++ Почта: not3hunnit@gmail.com

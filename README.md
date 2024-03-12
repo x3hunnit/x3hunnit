@@ -18,7 +18,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![codewars](https://www.codewars.com/users/wakeuphaku/badges/big)](https://www.codewars.com/users/wakeuphaku)
+##
+[![codewars](https://www.codewars.com/users/wakeuphaku/badges/small)](https://www.codewars.com/users/wakeuphaku)
 
 ## Мои контакты:
 + Telegram: [@wakeuphaku](https://t.me/wakeuphaku)

@@ -1,4 +1,3 @@
-<div align="center">
 # Привет! Меня зовут Дмитрий, я front-end разработчик
 
 ## Обо мне:
@@ -6,7 +5,7 @@
 + Стараюсь писать чистый и понятный код
 + Постоянно учусь и осваиваю новые технологии
 + Хочу создавать качественный продукт
-
+<div align="center">
 ## Мой стек:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,8 +20,8 @@
 
 ##
 [![codewars](https://www.codewars.com/users/wakeuphaku/badges/small)](https://www.codewars.com/users/wakeuphaku)
-
+</div>
 ## Мои контакты:
 + Telegram: [@wakeuphaku](https://t.me/wakeuphaku)
 + Почта: not3hunnit@gmail.com
-</div>
+

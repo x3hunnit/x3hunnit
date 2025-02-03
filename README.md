@@ -23,6 +23,6 @@
 [![codewars](https://www.codewars.com/users/wakeuphaku/badges/small)](https://www.codewars.com/users/wakeuphaku)
 
 ## Мои контакты:
-+ Telegram: [@wakeuphaku](https://t.me/wakeuphaku)
++ Telegram: [@x3hunnit](https://t.me/x3hunnit)
 + Почта: not3hunnit@gmail.com
 

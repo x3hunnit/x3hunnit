@@ -1,13 +1,3 @@
-# Привет! Меня зовут Дмитрий, я fullstack разработчик
-
-## Обо мне:
-+ Окончил Государственный университет «Дубна» 
-+ Окончил курс [Веб-разработчик](https://practicum.yandex.ru/web/) от Яндекс.Практикум
-+ Хочу работать в команде профессионалов
-+ Набираться опыта у коллег
-+ Постоянно учусь и осваиваю новые технологии
-+ Стараюсь писать чистый и понятный код
-  
 ## Мой стек:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

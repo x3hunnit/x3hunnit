@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ##
-[![codewars](https://www.codewars.com/users/wakeuphaku/badges/small)](https://www.codewars.com/users/wakeuphaku)
+[![codewars](https://www.codewars.com/users/3hunnit/badges/small)](https://www.codewars.com/users/3hunnit)
 
 ## Мои контакты:
 + Telegram: [@x3hunnit](https://t.me/x3hunnit)
